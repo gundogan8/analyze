@@ -14,7 +14,7 @@
 - output
   - ./code/で解析された結果が出力されます
 
-## 実装例
+## 参考実装例
 - Radar Charts Official
 
 https://github.com/Slothfulwave612/soccerplots/blob/master/docs/radar_chart.md#examples
