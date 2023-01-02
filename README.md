@@ -22,3 +22,9 @@ https://github.com/Slothfulwave612/soccerplots/blob/master/docs/radar_chart.md#e
 - Nunez-vs-Haaland-Radar-Plot
 
 https://github.com/arinzecode/Nunez-vs-Haaland-Radar-Plot/blob/main/Nunez%20vs%20Haaland%20Radar%20Plot.ipynb
+
+## 起動
+```
+$ jupyter-notebook
+http://localhost:8888/?token=XXXXXXXXXX ⇐ブラウザで開いて実装していきます
+```
